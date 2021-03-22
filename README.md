@@ -1,5 +1,5 @@
 # Git and GitHub setup guide
 
-## What is Git?
+### What is Git?
 
-## What is Github?
+### What is Github?
